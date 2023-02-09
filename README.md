@@ -2,7 +2,7 @@
 ## Bem vindo ao meu perfil GitHub 👋🐼
 - 🌎 Moro em São José dos Campos - SP
 - 🔭 Atualmente estou trabalhando como Analista de ERP
-- ❤️ Frond-End meu Objetivo❗
+- 💛 Frond-End meu Objetivo❗
 
 ## Contatos:
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamilton-godoi-silveira-229b9218/)
