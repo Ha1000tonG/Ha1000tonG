@@ -14,9 +14,8 @@
 ## Contatos:
 
 <div>
-<a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:contato@seu-usuário-aqui"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href = "ha1000tongs@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/hamilton-godoi-silveira-229b9218/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
 ## Estatísticas:
@@ -47,6 +46,8 @@
 ![image](https://user-images.githubusercontent.com/111543645/217708557-008f7034-d929-4436-98b6-c6aa8c0d346d.png)
 ![image](https://user-images.githubusercontent.com/111543645/217710038-95ae8769-4eb4-4e57-80b0-f2e049ba5e49.png)
 ![image](https://user-images.githubusercontent.com/111543645/217709638-04394aa0-e387-4cae-980f-0080ed95061d.png)
+
+<a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 Here are some ideas to get you started:
 - 💬 Pergunte-me sobre ...
