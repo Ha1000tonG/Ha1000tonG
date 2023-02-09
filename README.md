@@ -1,8 +1,8 @@
 # Olá, me chamo Hamilton Godoi❗
 ## Bem vindo ao meu perfil GitHub 👋🐼
 - 🌎 Moro em São José dos Campos - SP
-- 🔭 Atualmente estou trabalhando como Analista de ERP ...
-- 🌱 Estou aprendendo Frond-End ...
+- 🔭 Atualmente estou trabalhando como Analista de ERP
+- 🌱 Estou aprendendo Frond-End
 
     <img src="https://user-images.githubusercontent.com/111543645/217708445-49e790f6-fe23-4020-a6fb-d47027a87c45.png" width="30" height="30"/>
     <img src="https://user-images.githubusercontent.com/111543645/217708557-008f7034-d929-4436-98b6-c6aa8c0d346d.png" width="30" height="30"/>
@@ -19,8 +19,7 @@
 <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-
-
+## Estatísticas:
 <div>
 <a href="https://github.com/Ha1000tonG">
 <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ha1000tonG&layout=compact&langs_count=7&theme=dracula"/>   
