@@ -1,8 +1,8 @@
-# Olá, me chamo Hamilton Godoi❗
+# Olá, me chamo Hamilton Godoi
 ## Bem vindo ao meu perfil GitHub 👋🐼
 - 🌎 Moro em São José dos Campos - SP
 - 🔭 Atualmente estou trabalhando como Analista de ERP
-- 🌱 Estou aprendendo Frond-End
+- 🌱 Frond-End meu Objetivo❗
 
     <img src="https://user-images.githubusercontent.com/111543645/217708445-49e790f6-fe23-4020-a6fb-d47027a87c45.png" width="30" height="30"/>
     <img src="https://user-images.githubusercontent.com/111543645/217708557-008f7034-d929-4436-98b6-c6aa8c0d346d.png" width="30" height="30"/>
