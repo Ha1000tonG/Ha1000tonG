@@ -4,7 +4,7 @@
 - 🔭 Atualmente estou trabalhando como Analista de ERP
 - 💛 Frond-End meu Objetivo❗
 
-## :earth_americas: &nbsp;Onde me encontrar:
+## 🎯&nbsp;Onde me encontrar:
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamilton-godoi-silveira-229b9218/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ha1000tongs@gmail.com)
 
@@ -18,7 +18,7 @@
   <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img align="center" alt="VSCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   <img align="center" alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
-<br/>
+<div/>
 
 ## Estatísticas:
 <div>
@@ -27,9 +27,9 @@
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=Ha1000tonG&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
-  <h1 align="right">
-      <img src="https://komarev.com/ghpvc/?username=Ha1000tonGSwerts&color=006bed"/>
-  </h1>
+<h1 align="right">
+  <img src="https://komarev.com/ghpvc/?username=Ha1000tonGSwerts&color=006bed"/>
+</h1>
 
 
 
