@@ -4,7 +4,7 @@
 - 🔭 Atualmente estou trabalhando como Analista de ERP
 - 💛 Frond-End meu Objetivo❗
 
-## Contatos:
+## :earth_americas: &nbsp;Onde me encontrar:
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamilton-godoi-silveira-229b9218/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ha1000tongs@gmail.com)
 
@@ -22,10 +22,14 @@
 
 ## Estatísticas:
 <div>
-<a href="https://github.com/Ha1000tonG">
-<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ha1000tonG&layout=compact&langs_count=7&theme=dracula"/>   
-<img height="120em" src="https://github-readme-stats.vercel.app/api?username=Ha1000tonG&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/Ha1000tonG">
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ha1000tonG&layout=compact&langs_count=7&theme=dracula"/>   
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=Ha1000tonG&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+  
+  <h1 align="right">
+      <img src="https://komarev.com/ghpvc/?username=Ha1000tonGSwerts&color=006bed"/>
+  </h1>
 
 
 
@@ -68,4 +72,7 @@
 - 💬 Pergunte-me sobre ...
 - 📫 Como entrar em contato comigo: ...
 - ⚡ Curiosidade:...
+
+
+<img src="https://img.shields.io/static/v1?label=Overview&message=SEUNOME&color=f8efd4&style=for-the-badge&logo=GitHub">
 -->
