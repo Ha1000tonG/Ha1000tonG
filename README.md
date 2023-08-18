@@ -21,9 +21,7 @@
 <div/>
 
 ## Estatísticas:
-<div> 
-  <a href="https://github.com/Ha1000tonG">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ha1000tonG&theme=radical&hide_langs_below=4" />
+<div>
   <a href="https://github.com/Ha1000tonG">
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ha1000tonG&layout=compact&langs_count=7&theme=radical"&hide_langs_below=1/>
   </a>
@@ -55,8 +53,13 @@
 <!--
 <a href="https://github.com/Ha1000tonG">
 <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ha1000tonG&layout=compact&langs_count=7&theme=radical"/> 
-<div align="center"><img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=f8efd4&style=for-the-badge"/></div>
 
+<div align="center"><img src="http://img.shields.io/static/v1?
+
+label=STATUS&message=EM%20DESENVOLVIMENTO&color=f8efd4&style=for-the-badge"/></div>
+
+<a href="https://github.com/Ha1000tonG">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ha1000tonG&theme=radical&hide_langs_below=4" />
 
     <img src="https://user-images.githubusercontent.com/111543645/217708445-49e790f6-fe23-4020-a6fb-d47027a87c45.png" width="30" height="30"/>
     <img src="https://user-images.githubusercontent.com/111543645/217708557-008f7034-d929-4436-98b6-c6aa8c0d346d.png" width="30" height="30"/>
