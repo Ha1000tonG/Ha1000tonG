@@ -23,7 +23,7 @@
 ## Estatísticas:
 <div> 
   <a href="https://github.com/Ha1000tonG">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ha1000tonG&theme=dracula&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ha1000tonG&theme=dracula&hide_langs_below=4" />
   <a href="https://github.com/Ha1000tonG">
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ha1000tonG&layout=compact&langs_count=7&theme=radical"/>
   </a>
