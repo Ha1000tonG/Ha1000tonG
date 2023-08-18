@@ -21,11 +21,13 @@
 <div/>
 
 ## Estatísticas:
-<div>
-  <a href="https://github.com/Ha1000tonG">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ha1000tonG&layout=compact&langs_count=7&theme=radical"/> 
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Ha1000tonG&theme=dracula&hide_langs_below=1"/>
+<div> 
+  <a href="https://github.com/Gurupreet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ha1000tonG&theme=dracula&hide_langs_below=1" />
+</a>
 </div>
+
+
   
 <h1 align="right">
   <img src="https://komarev.com/ghpvc/?username=Ha1000tonGSwerts&color=006bed"/>
@@ -49,6 +51,8 @@
 
 
 <!--
+<a href="https://github.com/Ha1000tonG">
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ha1000tonG&layout=compact&langs_count=7&theme=radical"/> 
 <div align="center"><img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=f8efd4&style=for-the-badge"/></div>
 
 
