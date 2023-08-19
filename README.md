@@ -1,5 +1,5 @@
+![papel de parede urso pequeno](https://github.com/Ha1000tonG/Ha1000tonG/assets/111543645/8235a307-e2cd-4f0e-9d97-ce70e323ee33)
 
-![tela ha - Copia](https://github.com/Ha1000tonG/Ha1000tonG/assets/111543645/d62d4561-953a-4a95-85b9-469015f83911)
 
 # Olá, me chamo Hamilton Godoi
 ## Bem vindo ao meu perfil GitHub 👋🐼
