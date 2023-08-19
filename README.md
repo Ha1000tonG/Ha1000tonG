@@ -1,7 +1,5 @@
 
-![tela ha](https://github.com/Ha1000tonG/Ha1000tonG/assets/111543645/dd447466-b247-49f7-aece-33cd34c35b34)
-
-
+![tela ha - Copia](https://github.com/Ha1000tonG/Ha1000tonG/assets/111543645/d62d4561-953a-4a95-85b9-469015f83911)
 
 # Olá, me chamo Hamilton Godoi
 ## Bem vindo ao meu perfil GitHub 👋🐼
