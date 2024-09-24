@@ -8,20 +8,20 @@
 - 💛 Frond-End meu Objetivo❗
 
 ## 🎯&nbsp;Onde me encontrar:
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamilton-godoi-silveira-229b9218/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ha1000tongs@gmail.com)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamilton-godoi-silveira-229b9218/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ha1000tongs@gmail.com)
 
 
 ## Tecnologias e ferramentas que uso:
 <div style="display: inline_block">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-084475?style=for-the-badge&logo=python&logoColor=white">
-  <img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-E4405F?style=for-the-badge&logo=github&logoColor=white" />
-  <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img align="center" alt="VSCode" src="https://img.shields.io/badge/VS_Code-696969?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img align="center" alt="Trello" src="https://img.shields.io/badge/Trello-008000?style=for-the-badge&logo=trello&logoColor=white" />
+  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-084475?style=flat&logo=python&logoColor=white">
+  <img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-E4405F?style=flat&logo=github&logoColor=white" />
+  <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
+  <img align="center" alt="VSCode" src="https://img.shields.io/badge/VS_Code-05122A?style=flat&logo=visual%20studio%20code&logoColor=007ACC" />
+  <img align="center" alt="Trello" src="https://img.shields.io/badge/Trello-008000?style=flat&logo=trello&logoColor=white" />
 <div/>
 
 ## Estatísticas:
