@@ -1,5 +1,7 @@
-![papel de parede urso pequeno](https://github.com/Ha1000tonG/Ha1000tonG/assets/111543645/8235a307-e2cd-4f0e-9d97-ce70e323ee33)
 
+
+
+<img width="500" alt="Hamilton-01" src="https://github.com/user-attachments/assets/f06ad818-e2d5-48f4-b285-b35e959e2ce8">
 
 # Olá, me chamo Hamilton Godoi
 ## Bem vindo ao meu perfil GitHub 👋🐼
