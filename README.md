@@ -28,8 +28,8 @@
 
   <div>
     <a href="https://github.com/Ha1000tonG">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Ha1000tonG&show_icons=true&theme=radical"/>
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ha1000tonG&layout=compact&langs_count=7&theme=radical"&hide_langs_below=1/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Ha1000tonG&show_icons=true&theme=radical"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ha1000tonG&layout=compact&langs_count=7&theme=radical"&hide_langs_below=1/>
     </a>
 </div>
 
